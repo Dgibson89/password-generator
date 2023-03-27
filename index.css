@@ -1,0 +1,41 @@
+body {
+    margin: 50px 0 0 50px;
+    background-color: #36454F;
+    color: #100C08;
+}
+
+#style {
+    color: #6A0F49;
+}
+
+#btn {
+    padding: 7px 14px;
+    background-color: #1E2952;
+    border-radius: 15px;
+}
+
+.passwords {
+    display: flex;
+    margin-top: 20px;
+}
+
+#passwordOne-el {
+    width: 115px;
+    background-color: grey;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-right: 20px;
+    
+}
+
+#passwordTwo-el {
+    width: 115px;
+    background-color: grey;
+    padding: 10px 20px;
+    border-radius: 15px;
+    
+}
+
+.hidden {
+    display: none;
+}
